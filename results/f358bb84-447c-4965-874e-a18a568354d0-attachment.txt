@@ -1,0 +1,32 @@
+
+[QA] 데이터 정밀 검수 시작 (Data Integrity Test)...
+
+[Bug Found] 데이터 오류 발견! (Index: 1)
+   - Ticker: GOOGL
+   - 위반 항목: published_at
+   - 원인: Value error, 미래 날짜의 뉴스가 발견되었습니다: 2099-12-31T00:00:00
+
+[Bug Found] 데이터 오류 발견! (Index: 4)
+   - Ticker: AMZN
+   - 위반 항목: price
+   - 원인: Value error, 주가(price)가 0 이하일 수 없습니다: -500.0
+
+[Bug Found] 데이터 오류 발견! (Index: 5)
+   - Ticker: NVDA
+   - 위반 항목: published_at
+   - 원인: Value error, 미래 날짜의 뉴스가 발견되었습니다: 2099-12-31T00:00:00
+
+[Bug Found] 데이터 오류 발견! (Index: 6)
+   - Ticker: NVDA
+   - 위반 항목: title
+   - 원인: Value error, 제목(title)이 누락되었습니다! (Null Value)
+
+[Bug Found] 데이터 오류 발견! (Index: 8)
+   - Ticker: GOOGL
+   - 위반 항목: published_at
+   - 원인: Value error, 미래 날짜의 뉴스가 발견되었습니다: 2099-12-31T00:00:00
+
+[Bug Found] 데이터 오류 발견! (Index: 9)
+   - Ticker: AMZN
+   - 위반 항목: price
+   - 원인: Value error, 주가(price)가 0 이하일 수 없습니다: -500.0

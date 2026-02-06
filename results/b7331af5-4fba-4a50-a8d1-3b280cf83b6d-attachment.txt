@@ -1,0 +1,27 @@
+
+[QA] 콘텐츠 유해성 검사 시작 (Profanity Check)...
+
+[Catch!] 비속어 발견 (Index: 5)
+   - Ticker: AMZN
+   - 금칙어: 'sh*t'
+   - 원문: "This stock is sh*t and f**k."
+
+[Catch!] 비속어 발견 (Index: 9)
+   - Ticker: AMZN
+   - 금칙어: 'sh*t'
+   - 원문: "This stock is sh*t and f**k."
+
+[Catch!] 비속어 발견 (Index: 11)
+   - Ticker: AMZN
+   - 금칙어: 'sh*t'
+   - 원문: "This stock is sh*t and f**k."
+
+[Catch!] 비속어 발견 (Index: 15)
+   - Ticker: AMZN
+   - 금칙어: 'sh*t'
+   - 원문: "This stock is sh*t and f**k."
+
+[Catch!] 비속어 발견 (Index: 19)
+   - Ticker: AAPL
+   - 금칙어: 'sh*t'
+   - 원문: "This stock is sh*t and f**k."

@@ -1,0 +1,23 @@
+
+[QA] AI 환각(Hallucination) 의심 검사...
+[Hallucination?] 요약이 원문보다 깁니다! (Index: 0)
+   - 원문 길이: 28
+   - 요약 길이: 42
+[Hallucination?] 요약이 원문보다 깁니다! (Index: 2)
+   - 원문 길이: 28
+   - 요약 길이: 42
+[Hallucination?] 요약이 원문보다 깁니다! (Index: 4)
+   - 원문 길이: 24
+   - 요약 길이: 42
+[Hallucination?] 요약이 원문보다 깁니다! (Index: 6)
+   - 원문 길이: 28
+   - 요약 길이: 42
+[Hallucination?] 요약이 원문보다 깁니다! (Index: 9)
+   - 원문 길이: 28
+   - 요약 길이: 42
+[Hallucination?] 요약이 원문보다 깁니다! (Index: 10)
+   - 원문 길이: 28
+   - 요약 길이: 42
+[Hallucination?] 요약이 원문보다 깁니다! (Index: 12)
+   - 원문 길이: 28
+   - 요약 길이: 42
